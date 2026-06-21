@@ -1,0 +1,5 @@
+admin,admin123,admin
+librarian,lib123,admin
+student1,stud123,student
+student2,stud456,student
+student3,stud789,student

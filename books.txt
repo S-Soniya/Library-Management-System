@@ -1,0 +1,16 @@
+101,Java Programming,Herbert Schildt
+102,Data Structures,Robert Lafore
+103,Operating Systems,Abraham Silberschatz
+104,Database Management,Navathe
+105,Computer Networks,Andrew Tanenbaum
+106,Artificial Intelligence,Stuart Russell
+107,Machine Learning,Tom Mitchell
+108,Computer Graphics,Donald Hearn
+109,Web Technologies,Jeffrey Jackson
+110,Software Engineering,Roger Pressman
+111,C Programming,Dennis Ritchie
+112,Python Crash Course,Eric Matthes
+114,Cyber Security,William Stallings
+115,Cloud Computing,Rajkumar Buyya
+116,Python Programming,Nageshwara Rao
+113,Algorithms,CLRS
